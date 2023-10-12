@@ -3,3 +3,12 @@ This repository dives into the Black-Litterman Model, investigating two approach
 
 
 > # For a detailed explanation of the analysis, please consult BlackLittermanModel.ipynb above
+
+---
+## Contact
+
+- Email: gian.marco.oddo@usi.ch
+- LinkedIn: https://www.linkedin.com/in/gian-marco-oddo-8a6b4b207/
+- GitHub: https://github.com/GianMarcoOddo
+> Feel free to reach out for any questions or further clarification on this code.
+---
