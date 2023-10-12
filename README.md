@@ -1,4 +1,4 @@
-# **The Black-Litterman Model - Two different approaches in the estimation of the uncertainty matrix $\Omega$**
+# **The Black-Litterman Model - Two different approaches in the estimation of the uncertainty matrix **$\Omega$**
 This repository dives into the Black-Litterman Model, investigating two approaches to calculating the uncertainty matrix Ω: One encapsulating a subjective perspective, and the other grounded in a quantitative analysis
 
 
